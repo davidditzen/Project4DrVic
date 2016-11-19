@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\projects\EmPubLite\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b605b34e1db353dbd05dd98fc08d815eb7f0e8bf">
+        <dex dex="C:\Android\projects\EmPubLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_900b6adfbf4528461f68247c56f016ff538965d6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\projects\EmPubLite\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8cb13d2dd6758da75a6a7206b14a6c5d6c91b640">
+        <dex dex="C:\Android\projects\EmPubLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_257edd429226d4f42e0281e025a235220a503b81\classes.dex" />
+    </item>
+    <item
+        jar="C:\BOOKS\CommonswareAndroid\GitHubDownloads\EmPubLite\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5e803ec7c5a2dda714ee7283634a0b0bd1f31d56">
+        <dex dex="C:\BOOKS\CommonswareAndroid\GitHubDownloads\EmPubLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0632542e85e85a03a5d7c694bd2b140218095bf9\classes.dex" />
+    </item>
+    <item
+        jar="C:\BOOKS\CommonswareAndroid\GitHubDownloads\EmPubLite\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1bf15a5b452213db0a3ac7148eef91c455703535">
+        <dex dex="C:\BOOKS\CommonswareAndroid\GitHubDownloads\EmPubLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ede18ca4c73ae3c79b39f62131c47aa8c8eb9063\classes.dex" />
+    </item>
+
+</items>
